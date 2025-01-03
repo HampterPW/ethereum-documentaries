@@ -60,3 +60,6 @@ Ethereum’s role in the broader blockchain ecosystem is undeniable. It has set 
 
 Ethereum’s journey from its inception to becoming the core of the crypto world is a testament to its ability to adapt, innovate, and push the boundaries of what’s possible with blockchain technology. With the future advancements in scalability, interoperability, and decentralized finance, Ethereum will continue to lead the charge in shaping the decentralized future of the internet.
 
+## Chapter 9: The End and the Teaser to Something New
+
+Something so big, used to be so small, as things when on it was the core of DeFi. Maybe next We'll cover the history of ethereum.
